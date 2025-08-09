@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://via.placeholder.com/1200x300.png?text=Julfikar+Al+Rafi+-+MERN+Stack+Developer)
+![Banner](https://i.ibb.co.com/QFtKJPbJ/Blue-Purple-Orange-Cartoon-Playful-Web-Software-Development-Announcement-Banner.png)
 
 # 👋 Hi, I'm **Julfikar Al Rafi**  
 **MERN Stack Developer | Full Stack Web Enthusiast**  
@@ -43,7 +43,7 @@ Always eager to learn new tools, frameworks, and industry best practices.
 
 ## 🌐 Connect With Me
 <p>
-<a href="https://github.com/your-github-username" target="_blank">
+<a href="https://github.com/JulfikarRafi" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
@@ -57,10 +57,7 @@ Always eager to learn new tools, frameworks, and industry best practices.
 ---
 
 ## 📊 GitHub Stats
-
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=JulfikarRafi&show_icons=true&theme=tokyonight" height="160" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulfikarRafi&layout=compact&theme=tokyonight" height="160" />
 </p>
-
-
