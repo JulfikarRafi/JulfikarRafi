@@ -46,11 +46,8 @@ Always eager to learn new tools, frameworks, and industry best practices.
 <a href="https://github.com/JulfikarRafi" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+<a href="https://www.linkedin.com/in/julfikarrafi/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-</a>
-<a href="https://twitter.com/your-twitter-id" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" width="40" />
 </a>
 </p>
 
